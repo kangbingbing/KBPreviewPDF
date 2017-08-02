@@ -3,6 +3,8 @@
 
 #### 需求：线上生成电子合同，客户端预览。
 
+详细介绍[点击这里](http://kangbingbing.com/%E5%9C%A8%E7%BA%BF%E9%A2%84%E8%A7%88PDF%E5%8F%8Aoffice%E6%96%87%E4%BB%B6/)
+
 ![](https://ws1.sinaimg.cn/large/9e1008a3ly1fhziu4tsang20ac0ige0o.gif)
 
 
